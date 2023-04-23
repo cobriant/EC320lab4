@@ -1,6 +1,6 @@
 # EC320 Lab 4!
 
-<youtube link here>
+https://www.youtube.com/watch?v=PewORxj0AaM
 
 In this lab, you'll practice your dplyr skills some more by solving a mUrDeR mYsTeRy!! It's an extra challenging lab, so make sure to get started on it early so that if you get stumped, you can come to office hours.
 
