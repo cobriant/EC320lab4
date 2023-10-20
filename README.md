@@ -12,8 +12,8 @@ Lab assignment 4: K08_left_join and K09_murder_mystery are due Friday 4/28 at 5p
 
 # Reading
 
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-40.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-41.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-42.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-43.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-44.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-28.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-29.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-30.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-31.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-32.jpg)
