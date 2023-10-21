@@ -39,8 +39,7 @@ interview
 people
 
 #' This diagram will be useful: it shows you how variables in the tables can be
-#' linked to connect information from different tables. It's called a database
-#' Entity Relationship Diagram: ![](https://mystery.knightlab.com/schema.png)
+#' linked to connect information from different tables. ![](https://mystery.knightlab.com/schema.png)
 #'
 #' First, we'll get more comfortable with the data:
 #' How many people are in this database?
